@@ -131,11 +131,5 @@ My primary hypothesis here is that modernist literature follows the trend I sugg
 # Works Cited
 
 <!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyJhcVJ4WExpZ2hpWGE5ZUVjIjp7In
-RleHQiOiJkZW50aWZ5aW5nIHRoZSB3cml0ZXJzIHRoYXQiLCJz
-dGFydCI6MTM2NTMsImVuZCI6MTM2ODB9fSwiY29tbWVudHMiOn
-siU0RPeUh1anNDY0JnQVc3YiI6eyJkaXNjdXNzaW9uSWQiOiJh
-cVJ4WExpZ2hpWGE5ZUVjIiwic3ViIjoiZ2g6MTg0MzY3NiIsIn
-RleHQiOiJUZXN0IGNvbW1lbnQiLCJjcmVhdGVkIjoxNTQxNDU2
-MDY5NzA2fX0sImhpc3RvcnkiOlsyMDA0OTEwNzYzXX0=
+eyJoaXN0b3J5IjpbLTQ3ODk2NjI5NiwyMDA0OTEwNzYzXX0=
 -->
