@@ -5,7 +5,7 @@ author: Jonathan Reeve
 documentclass: scrartcl
 ---
 
-Theories of modernism in English-language literature---by which I mean, literary-historical theories that argue for a verifiably distinct group of texts or writers, termed "modernist,"[^1] and possessing certain qualities---have been proliferating exponentially in the past thirty years.[^2] A short list would still have to mention modernism as defined by its relation to myth[^3], as seen in its fragmentation[^4] or its formal innovations; as the work of a particular social network[^5], as a break with religion[^6] or tradition[^7], or in its relation to the trauma of the first world war. This is by no means an exhaustive list, of course, and neither are these competing or mutually exclusive theories: they extend and compliment one another. Among the lesser-known of these theories is that which highlights the sensory qualities of modernist writing: specificities of sight and sound that distinguish those works we call modernist from others. This theory is noticeably under-discussed, and under-theorized.
+Theories of modernism in English-language literature---by which I mean, literary-historical theories that argue for a verifiably distinct group of texts or writers, termed "modernist,"[^1] and possessing certain qualities---have been proliferating exponentially in the past thirty years.[^2] A short list would still have to mention modernism as defined by its relation to myth[^3], as seen in its fragmentation[^4] or its formal innovations; as the work of a particular social network[^5], as a break with religion[^6] or tradition[^7], or in its relation to the trauma of the first world war. This is by no means an exhaustive list, of course, and neither are these competing or mutually exclusive theories: they extend and compliment one another. Among the lesser-known of these theories is that which highlights the sensory qualities of modernist writing: specificities of sight and sound that distinguish those works we call modernist from others. This theory is noticeably under-discussed, and under-theorized. 
 
 [^1]: Of course, "modernism" is by no means a stable category, as critics have often noted. To some, it refers to a particular epoch of literary history: 1880–1930 for Simon Joyce and Ronald Schliefer, 1880-1922 for Ann Ardis, and 1880-1940 for Brooker, Bru, and Thacker [@joyce2015modernism; @ardis_modernism_2002; @schleifer2000modernism; @brooker_oxford_2009]. To others, it is an artistic movement, overlapping, if not synonymous with the avant-garde, but not one which is, necessarily, temporally bounded. Many critics agree with Michael Levinson, who admits to the protean quality of "modernism" as a concept, concluding that "vague terms still signify. Such is the case with modernism.: it is at once vague and unavoidable" [@levenson_genealogy_1986]. Although it is not my aim to settle, or even really enter, this debate, these are serious considerations, especially with respect to the selection of texts to be examined. 
 
@@ -130,3 +130,12 @@ My primary hypothesis here is that modernist literature follows the trend I sugg
 
 # Works Cited
 
+<!--stackedit_data:
+eyJkaXNjdXNzaW9ucyI6eyJhcVJ4WExpZ2hpWGE5ZUVjIjp7In
+RleHQiOiJkZW50aWZ5aW5nIHRoZSB3cml0ZXJzIHRoYXQiLCJz
+dGFydCI6MTM2NTMsImVuZCI6MTM2ODB9fSwiY29tbWVudHMiOn
+siU0RPeUh1anNDY0JnQVc3YiI6eyJkaXNjdXNzaW9uSWQiOiJh
+cVJ4WExpZ2hpWGE5ZUVjIiwic3ViIjoiZ2g6MTg0MzY3NiIsIn
+RleHQiOiJUZXN0IGNvbW1lbnQiLCJjcmVhdGVkIjoxNTQxNDU2
+MDY5NzA2fX0sImhpc3RvcnkiOlsyMDA0OTEwNzYzXX0=
+-->
