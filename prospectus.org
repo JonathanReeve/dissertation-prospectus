@@ -1,0 +1,387 @@
+#+TITLE: Dissertation Prospectus Notes
+#+AUTHOR: Jonathan Reeve
+#+BIBLIOGRAPHY: references.bib
+
+* Ch. 1: Cognitive Psychology, Reading Imagination (Theory)
+
+Cognitive theory of vision, visual perception, imaginary imagery, imagery while reading
+
+Aristotle: "the soul never thinks without an image" (cite:aristotle1941 594)
+
+[Build out an explanation of chapters, as parts of the eye, procedures of vision.]
+
+Dual Coding Theory: esp. /Imagery and Text/
+
+** Literary studies 
+
+*** Visual Imagination
+**** 2015 - Theorizing Imagery, Aesthetics, and Doubly Directed States
+cite:Zunshine_2015
+
+Chapter in cite:zunshine2015oxford  
+
+About vividness of imagery, its connectedness to memory.
+
+Quotes Kant: “liking is connected with the mere exhibition or power of exhibition, i.e., the imagination, with the result that we regard this power, when an intuition is given us, as harmonizing with the power of concepts, i.e., the understanding or reason”: aesthetic judgment is about the harmony of what we see with our ability to think, imagine, and see it."  (254)
+
+Quotes Donna Tartt, from /The Goldfinch/: "“You can have a lifetime of perfectly sincere museum-going where you traipse around enjoying everything and then go out and have some lunch. But. . . if a painting really works down in your heart and changes the way you see, and think, and feel, you don’t think, “oh, I love this picture because it’s universal.” “I love this painting because it speaks to all mankind.” That’s not the reason anyone loves a piece of art. It’s a secret whisper. . . . An individual heart-shock. Your dream, Welty’s dream, Vermeer’s dream. . . [A] really great painting is fluid enough to work its way into the mind and heart through all kinds of different angles, in ways that are unique and very particular. Yours, yours. I was painted for you.”" (254)
+
+**** 2013 - Feeling Beauty
+cite:starr2013feeling
+
+"iconologists propose that both arts are fundamentally arts of sight, privileging the power of either visual images (painting, sculpture, and so on) or visual imagery ...; iconoclasts assert that visual images are inherently inferior to the concepts of language, or even that imagery as such doesn't exist." (69)
+
+**** 1991 - Reading the Written Image: Verbal Play, Interpretation, and the Roots of Iconophobia
+cite:collins1991reading
+
+**** 2013 - Iconology: Image, Text, Ideology
+cite:mitchell2013iconology
+**** 2010 - Literary Reading, Cognition and Emotion: An Exploration of the Oceanic Mind
+cite:burke2010literary
+
+
+[[https://clio.columbia.edu/catalog/12459458][Online, through Ebook Central]]
+**** 1983 - The mind's eye in arts and science
+cite:paivio1983mind
+
+Emphasizes the centrality of the image, and the place-image, to memory. 
+
+**** 2006 - The Case for Mental Imagery
+cite:kosslyn2006case
+
+#+BEGIN_QUOTE
+When we try to remember whether we left a window open or closed, do we actually see the window in our mind? If we do, does this mental image play a role in how we think? For almost a century, scientists have debated whether mental images play a functional role in cognition. In The Case for Mental Imagery, Stephen Kosslyn, William Thompson, and Giorgio Ganis present a complete and unified argument that mental images do depict information, and that these depictions do play a functional role in human cognition. They outline a specific theory of how depictive representations are used in information processing, and show how these representations arise from neural processes. To support this theory, they seamlessly weave together conceptual analyses and the many varied empirical findings from cognitive psychology and neuroscience. In doing so, they present the conceptual grounds for positing this type of internal representation and summarize and refute arguments to the contrary. Their argument also serves as a historical review of the imagery debate from its earliest inception to its most recent phases, and provides ample evidence that significant progress has been made in our understanding of mental imagery. In illustrating how scientists think about one of the most difficult problems in psychology and neuroscience, this book goes beyond the debate to explore the nature of cognition and to draw out implications for the study of consciousness. Student and professional researchers in vision science, cognitive psychology, philosophy, and neuroscience will find The Case for Mental Imagery to be an invaluable resource for understanding not only the imagery debate, but also and more broadly, the nature of thought, and how theory and research shape the evolution of scientific debates.
+#+END_QUOTE
+
+**** 1999 - Fantasm and Fiction: On Textual Envisioning
+cite:schwenger1999fantasm
+
+At butler. Also in part in Google Books.
+
+Describes the trend in the early 90s towards investigations of visuality
+ - Calls this part of the "pictorial turn" in literary studies (2)
+
+**** 2012 - Texture: A Cognitive Aesthetics of Reading
+cite:stockwell2012texture
+
+Given that the mind is embodied, "the distinction between nature and artifice is not tenable." (4)
+
+Uses "text world theory", defined as "a cognitive discourse grammar which regards interlocutors as occupying a discourse world. Together, utterers and receivers (writers and readers, in literary terms here) create a text world on the basis of perceived common ground knowledge that they seem to share. **The text world is a readerly mental representation of the alternate world—disjunctive from their own—in which there might be o ther chararcters, objects, history or location. Readers' text worlds are rich worlds, filled in from their own past experiences.**" (7)
+
+(21) has a really interesting chart which provides a an "attention-resonance model" and its accompanying taxonomy. 
+ - Seems to say: what keeps a work interesting is its quality of being an "attractor," for which an important quality is "newness" (23)
+
+Describes "landscape attractor" (52)
+
+deals with "cognitive psychology of attention" (55)
+
+Quantifies phonemes and phonetics! (61)
+
+Coins terms like "intensity" and "loading" and textual "richness" to describe richness of texts. 
+ - Says /Finnegans Wake/ is too rich, too "overloaded." +
+
+Looks at repeating syntactic structures in Shelley's works (69)
+
+Lots of reader-response stuff (79)
+ - "Readers who describe their literary experience as a form of control tend to see the direction of control as coming from the book or author, with themselves as readers being the entity controlled. These people say things like: ‘The weave of the daughter’s life in modern San Francisco and her mother’s life in China holds you right to the end’, ‘It’s grip- ping stuff’, ‘I couldn’t put it down’, ‘It’s action-packed and it doesn’t let go till the very last page’." (80)
+
+"According to the /quantity principle, formal complexity corresponds to conceptual complexity" (83).
+
+"Langacker (2008: 536‒8) points out that all language representations involve some degree of simulation, the principle of cognitive projection oper- ating on the traditional notion of linguistic displacement. Even face-to-face online commentary on the shared situation involves grammaticalisation and assumptions about shared embodied experience, and so has a small degree of simulation in this sense." (104)
+ - cite:langacker2008cognitive
+
+Deals with "viewpoint as vector" (109) 
+
+Physical description (114) 
+
+Deictic Shift Theory (128): 
+ - Developed in cite:stockwell2005cognitive
+ - "DST models the common perception of a reader 'getting inside' a literary text as the reader taking a **cognitive stance** within the mentall constructud world of the text. This imaginative capacity is a deictic shift which allows the reader to understand projected deictic expressions relative to the shifted deictic centre." (46-7)
+ 
+**** 1995 - On vivacity: The difference between daydreaming and imagining-under-authorial-instruction
+cite:scarry1995vivacity
+
+Says literature contains "instructions for the production of actual sensory content."
+
+**** 1994 - The reader's eye: visual imaging as reader response
+cite:esrock1994reader
+
+"Drawing on substantive research from various disciplines, Ellen Esrock shows that the reader's visual imagery can have unique cognitive and affective consequences that heighten not only the experience of reading but also the scholarly study of literature."
+
+Calls itself "a response to the widespread presumption in literary studies that considerations of a reader's visual imaging have no value." (vii) 
+
+Anti-imagination: William Gass
+
+Argues that the "unique metaphysical position" of vision in ancient philosophy is called into question in the twentieth century.
+
+**** 2003 - In the Mind's Eye: The Visual Impulse in Diderot, Baudelaire and Ruskin
+cite:wettlaufer2003mind
+
+Deals with mostly French writers, but could have a useful bibliography. 
+**** 2017 - Literary Visualities: Visual Descriptions, Readerly Visualisations, Textual Visibilities
+cite:bodola2017literary
+
+Downloaded via Ebrary
+**** 1991 - The Act of Reading: A Theory of Aesthetic Response
+cite:iser1991act
+
+"The image and the reading subject are indivisible. This does not mean, however, that the combination of signs made present in the image arises out of the arbitrariness of the subject—even if the contents of such images may be colored by him; it means in effect that the reader is absorbed into what he himself has been made to produce through the image; he cannot help being affected by his own production." (140)
+
+"the literary image represents an extension of our existing knowledge, whereas the image of an existing object only utilizes given knowledge to create the presence of what is absent." (140-1)
+
+"The text mobilizes the subjective knowledge present in all kinds of readers and directs it to one particular end. However varied this knowledge may be, the reader's subjective contribution is controlled by the given framework. It is as if the schema were a hollow form into which the reader is invited to pour his own store of knowledge." (143)
+
+**** And Science
+***** 1980 - A theory of reading: From eye fixations to comprehension.
+cite:just1980theory
+
+[[https://en.wikipedia.org/wiki/Eye_tracking#cite_note-14][WP]]: influential "Strong eye-mind hypothesis, that 'there is no appreciable lag between what is fixated and what is processed.'"
+
+But this has apparently been called into question a lot. 
+
+Define reading: "Reading can be construed as the coordinated execution of a humber of processing stages such as word encoding, lexical access, assigning semantic roles, and relating the information in a given sentence to previous sentences and previous knowledge." (331)
+
+***** 2014 - Cognitive Iconology: When and How Psychology Explains Images
+cite:verstegen2014cognitive
+
+*** Anti-Imagination in Literary Studies
+William Empson, 1962, "denounced what he considered the widespread but wrongheaded view that literary works are supposed to evoke visual images in their readers" (cite:esrock1994reader 1)
+
+William Gass: "the most passionate critic" of the image in literature (cite:esrock1994reader 151). 
+
+Calls I. A. Richards "one of the most influential critics to discuss the limitations of visual imagery," also "not coincidentally, was Empson's teacher." (3)
+ - Richards says "visualisers ... are exposed to a special danger." (4) 
+
+** Cognitive sciences
+*** Philosophy/Phenomenology of vision
+Daniel Dennett, "Two Approaches to Mental Images," describes readerly visual imagination as a "phenomenological image" (cite:esrock1994reader 7)
+
+* Ch. 2: Fin-de-siẽcle Imagisms (Historicization)
+** In literature
+*** Imagism (the literary movement); Pound
+Pound, /ABC of Reading/: (cite:pound_abc_1960)
+ - Ch. 8 begins: "Language is a means of communication," says the "three chief means" of "charg[ing] language to the utmost possible degree" include: 
+   - "throwing the object (fixed or moving) onto the visual imagination" 
+
+Pound was also attracted to the Chinese character, as the title of the book goes, "as a medium for poetry," in part due to its visual, ideographic qualities.
+
+"T.E. Hulme, an aesthetic philosopher who quite reasonably might be called the 'father of Imagism.'" (cite:hughes1972imagism 9)
+ - see below
+
+*** And Conrad: 
+ - "In the first lines of the preface to /The Nigger of the 'Narcissus,'/ Conrad defines art as 'a single-minded attempt to render the highest kind of justice to the visible universe.' This is reasonable and reasonably straightforward: it squares nicely with the stipulation that art 'make its appeal through the senses,' with the proposal to show life's 'vibration, its color, its form' and with Conrad's oft-quoted summary of his aim: 'to make you hear, to make you feel ... before all, to make you /see/." (cite:levenson_genealogy_1986 1)
+
+*** Eliot, in his prose, keeps coming back to the visual. 
+ - Devotes a chapter to visual hallucination in his early prose work /Knowledge and Experience/. (cite:eliot2014complete1 332)
+ - Eliot, in a review of Ernest Fenollosa and Ezra Pound's /'Noh' or Accomplishment/: 
+   - **"In general, we may say that the less “realistic” literature is, the more visual it must be. In reading Pride and Prejudice or The Wings of the Dove we hardly need to visualize at all; in reading Dante we need to visualize all the time. Dreams, to be real, must be seen."** (cite:eliot2014complete1 566).
+ - Visual nature of dreams: Freud
+
+*** Woolf
+In her essay, "The Cinema": 
+ - "In Shakespeare, as everybody knows, the most complex ideas, the most intense emotions form chains of images, through which we pass, however rapidly and completely they change, as up the loops and spirals of a twisting stair. But obviously the poet's images are not to be cast in bronze or traced with pencil and pain. They are compact of a thousand suggestions, of which the visual is only the most obvious or the uppermost. ... All this, which is accessible to words and to words alone, the cinema must avoid." (cite:woolf2009selected)
+   - I would disagree with VW here. 
+
+See cite:goldman98_virgin_woolf
+
+*** Lawrence
+"Lawrence's imagination, as his several essays in art theory and criticism attest, was powerfully affected by his very considerable experience of paintings. And the many references to painting and sculpture in the novels often serve to complement or enhance a certain passage in the writing." (cite:alldritt1971visual vii)
+*** Working Bibliography
+**** 2014 - The Complete Prose of T.S. Eliot: Apprentice years, 1905-1918
+cite:eliot2014complete
+
+"Consider this again in the case of memory. Bergson has emphasized the fact that the progress of human consciousness has been toward homogeneous space, for the greater possibilities of action. He has not in his discussion of memory specifically stated what seems to me obvious, if the first conclusion be true: the acquisition of his second kind of memory, the continuous type, is only another triumph in spatialisation. He concedes, you remember, that the whole of past experience may be latent in the animals. The differentia is the power of visualisation of this experience, and what is visualisation but spatialisation?73* The future is ideal construction, and is spatial also." ("Inconsistencies in Bergson's Idealism," 80)
+
+**** 1972 - Imagism \& the Imagists: A Study in Modern Poetry
+cite:hughes1972imagism
+
+Looks really useful.
+
+Should contain ideas about the influence of imagism? 
+
+I actually don't think it's 1972, but way earlier? 
+
+Traces the genealogy of imagism to: 
+ - reaction against immediately preceding poetry
+ - influence of East Asian poetry (esp. Pound) 
+ - influence of French symbolist poetry
+   - and Parnassians before them
+
+"At the outset we find ourselves concerned with the activities of a relatively unknown man, T.E. Hulme, an aesthetic philosopher who quite reasonably might be called the 'father of Imagism.'" (9)
+
+**** ABC of Reading
+cite:pound_abc_1960
+
+Ch. 8 begins: "Language is a means of communication," says the "three chief means" of "charg[ing] language to the utmost possible degree" include: 
+ - "throwing the object (fixed or moving) onto the visual imagination" 
+
+**** 1993 - Modernity and the Hegemony of Vision
+cite:levin1993modernity
+
+Philosophy, mostly. Doesn't seem to really discuss modernism, but does have a chapter on Nietzsche.
+
+**** 1998 - The feminist aesthetics of Virginia Woolf : modernism, post-impressionism, and the politics of the visual
+cite:goldman98_virgin_woolf
+
+**** 1992 - Techniques of the Observer: On Vision and Modernity in the Nineteenth Century
+cite:crary1992techniques
+
+Argues that vision significantly changed around the early- to mid-19th C
+**** 2009 - Literary Modernism and Beyond: The Extended Vision and the Realms of the Text
+cite:lehan2009literary
+
+Deals frequently with vision, perception. Could be useful. 
+
+**** 1959 - Joyce's Visual Imagination
+cite:ryf1959
+**** 2004 - Joyce's Visions
+CLOSED: [2018-11-26 Mon 20:13]
+cite:phillips2004
+**** 1997 - James Joyce's Techno-poetics
+cite:theall1997james
+
+Looks very useful. Chapter 13 on /The Relativities of Light, Colour, and Sensory Perception/. 
+
+**** 1991 - Image and Ideology in Modern/Postmodern Discourse
+cite:downing1991image
+
+On Conrad, Woolf, Pound, and more.
+** In science, philosophy
+Lay, 1898: "The mental imagery of words forms a most interesting and import subject for study. It seems probable that when once the attention is called to the different way in which words exist in the mind, it will be possible for the psychologist to see better the different sensory aspects of the 'thought stream' and to study them more successfully than heretofore." (cite:lay1898mental)
+ - Examines literature, in particular
+  
+Freud, in /Interpretation of Dreams/, (1899), notes the visual character of dreams: 
+ - Factor responsible for translating "dream thoughts" into "dream content" is "the regard for presentability in the peculiar psychic material which the dream makes use of,—that is fitness for representation, for the most part by means of visual images."
+  
+Betts, 1909 has an experiment where he tests "enjoyment of literature" against subjects' capacity for visualizing them (cite:betts1909distribution 87)
+ - Cites Alfred Binet's 1903 L'étude Expérimentale de l'Intelligence: "Enfin et c'est là le fait capital fécond en conséquences pour les philosophes toute la logique de la pensée échappe à l'imagerie." (cite:binet1903étude 309)
+ - [[https://books.google.com/books?id][The Distribution and Functions of Mental Imagery - George Herbert Betts - Google Books]]
+  
+Hulme on poetry v. prose: 
+ - "In prose as in alpebra concrete things are embodied in signs or counters, which are moved about according to rules, without being visualized at all in the process. There are in prose certain type situations and arrangements of words, which move as automatically into certain other arrangements as do funtions in algebra. One only changes the /x/'s and /y/'s back into physical things at the end of the process. Poetry, in one aspect in any rate, may be considered as an effort to avoid this characteristic of prose. It is not a counter language, but a visual concrete one. It is a compromise for a language of intuition which would have over sensations bodily." (cite:hulme1994collected 95) from "Searchers After Reality 2: Haldane"
+*** 1911 - The Imaginal Reaction to Poetry: The Affective and the Aesthetic Judgment
+cite:downey1911imaginal
+
+All on Google Books.
+*** 1898 - Mental Imagery: Experimentally and Subjectively Considered
+cite:lay1898mental
+
+Wow, looks great. 
+Examines literature. 
+Columbia doctoral thesis in philosophy. 
+In particular, is interested in Flaubert and French literature. 
+
+*Uses quantitative studies of literature.* (11)
+*** 1856 - The Language of the Eye: The Importance and Dignity of the Eye as Indicative of General Character, Female Beauty, and Manly Genius
+cite:turnley1856language
+
+ - Really interesting, if very dated. 
+ - A chapter on "Poet's Imagery"
+ - Discussed in cite:flint2000victorians
+ - [[https://books.google.com/books?id=4GIJxq73DHEC&pg=PA46&dq=the+language+of+the+eye&source=gbs_toc_r&cad=4#v=onepage&q=the%20language%20of%20the%20eye&f=false][Available in full on Google Books]]
+* Ch. 3: Procedures, Formalisms (Method)
+
+Formalisms: 
+ - Mathematical formalization: converting observations into procedures
+ - Not, however, an attention to form. 
+
+Reading machines. 
+
+Demonstration of method: 
+ - a close reading of a few sentences of /Dubliners/, 
+ - showing how imagery can be proceduralized
+
+[Build out an explanation of visual inferences as corpus-generated.]
+
+** Working Bibliography
+*** 2014 - Making a Machine that Sees Like Us
+cite:pizlo2014making
+
+*** 2013 - SOILIE: A computational model of 2D visual imagination
+cite:breault2013soilie
+
+Concludes: " SOILIE is able to take a user input of a single word and generate a rendered image of a 2D scene depicting the query word and several associated images, in more or less the correct places. Although the placement of sub-images in the final canvas makes sense if you know what it is doing, the images are admittedly unlike our internal experiences of imagery, and appear rather like surrealistic art pieces. Future work should improve the images. In particular, the problems faced are 1) incoherent label choice (particularly with homonyms), 2) the system‟s misunderstanding of part-whole relationships (meronyms), 3) a misunderstanding of kind with respect to parts and wholes (a dog‟s ear versus a human ear) and 4) lack of information about size. Future work will address these problems, as well as improve the nature of the output using pixel interpolation to fill in blank spaces (Hays & Efros, 2007; Feiner, 1985), to create a more realistic neural model of the rendering." 
+
+* Ch. 4: Colors
+Physiology of retinal cones
+
+Psychology of color
+
+Handbook of Color Psychology (cite:elliot2015handbook)
+
+Experiment: a quantitative analysis of color in this literary corpus
+ - Analysis of color expressions: 
+   - their historical changes
+   - their locations in narrative time
+   - their hierarchies
+   - averages, according to different color spaces
+
+*** 2015 - Handbook of Color Psychology
+cite:elliot2015handbook
+
+All online: [[https://www-cambridge-org.ezproxy.cul.columbia.edu/core/books/handbook-of-color-psychology/5A29A2BBA251510F1DCB9CBB746EE7D5?pageNum][Handbook of Color Psychology edited by Andrew J. Elliot]]
+
+* Ch. 5: Shapes, Bodies, Objects
+
+Retinal rods
+
+Neurological differences between recognition of face and recognition of object. 
+
+Reading bodies: eye movement tracking
+
+I will necessarily interface with perception of objects: objecthood. 
+ - "Smith, Johnson and Spelke (2003) demonstrate experimentally that objects with regular predictable edge-boundaries achieve a unity in perception more readily than objects with ragged or misaligned edges." (cite:stockwell2012texture 107)
+ 
+Experiment: a quantitative study of novels' descriptions of bodies (objects and human bodies)
+ - how human bodies are divided
+   
+** Working Bibliography
+*** 2018 - Using dual eye tracking to uncover personal gaze patterns during social interaction
+cite:rogers2018
+
+Abstract: "We report the personal eye gaze patterns of people engaged in face-to-face getting acquainted conversation. Considerable differences between individuals are underscored by a stability of eye gaze patterns within individuals. Results suggest the existence of an eye-mouth gaze continuum. This continuum includes some people showing a strong preference for eye gaze, some with a strong preference for mouth gaze, and others distributing their gaze between the eyes and mouth to varying extents. Additionally, we found evidence of within-participant consistency not just for location preference but also for the duration of fixations upon the eye and mouth regions. We also estimate that during a 4-minute getting acquainted conversation mutual face gaze constitutes about 60\% of conversation that occurs via typically brief instances of 2.2 seconds. Mutual eye contact ranged from 0–45\% of conversation, via very brief instances. This was despite participants subjectively perceiving eye contact occurring for about 70\% of conversation. We argue that the subjective perception of eye contact is a product of mutual face gaze instead of actual mutual eye contact. We also outline the fast activity of gaze movements upon various locations both on and off face during a typical face-to-face conversation."
+*** 2015 - The Women Who Knew Too Much: Hitchcock and Feminist Theory
+cite:modleski2015women
+
+Snow (cite:snow1989theorizing) says it has "an intelligent discussion of [male gaze theory's] various positions and internal disagreements. 
+
+*** 1989 - Theorizing the male gaze: Some problems
+cite:snow1989theorizing
+
+Mostly art history. 
+*** 2007 - Sex differences in viewing sexual stimuli: An eye-tracking study in men and women
+cite:rupp2007sex
+
+*** 2012 - When art moves the eyes: a behavioral and eye-tracking study
+cite:massaro2012art
+*** 1974 - The time course of picture viewing.
+cite:antes1974time
+
+Appears to be foundational: cited many hundreds of times.
+*** 2014 - Catching eyes: effects of social and nonsocial cues on attention capture
+cite:bockler2014catching
+
+Abstract: "Direct eye contact and motion onset are two powerful cues that capture attention. In the present study, we combined direct gaze with the sudden onset of motion to determine whether these cues have independent or shared influences. Participants identified targets presented randomly on one of four faces. Initially, two faces depicted direct gaze, and two faces depicted averted gaze. Simultaneously with or 900 ms before target presentation, one face with averted gaze switched to direct gaze, and one face with direct gaze switched to …"
+
+About locking eyes with someone. 
+
+*** 2014 - Eyes on the bodies: An eye tracking study on deployment of visual attention among females with body dissatisfaction
+cite:gao2014eyes
+
+*** 2004 - A test of objectification theory: The effect of the male gaze on appearance concerns in college women
+cite:calogero2004test
+
+* Ch. 6: Spaces 
+- White et al. on orienting: "Active vision involves a continual re-orienting of the line of sight with stimuli pertinent to current goals" (cite:White_2016 1).
+- Spatial Orientation in Vision
+
+Experiment: 
+ - A quantitative study of novels' descriptions of place
+
+*** 2016 - Neural Mechanisms of Saliency, Attention, and Orienting
+cite:White_2016
+
+*** 1996 - Visual landscape exploration as revealed by eye movement tracking
+cite:de1996visual
+   
+* References
