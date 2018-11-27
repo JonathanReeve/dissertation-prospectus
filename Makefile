@@ -7,3 +7,6 @@ reeve-prospectus.html: reeve-prospectus.md
 clean:
 	rm -rf plantuml-images
 	rm reeve-prospectus.pdf
+
+prospectus.bib:
+	cat bibtex/* > prospectus.bib
