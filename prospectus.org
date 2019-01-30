@@ -1,374 +1,138 @@
-#+TITLE: Dissertation Prospectus: Outline and Notes
+#+TITLE: Dissertation Prospectus: Visual Imaginations of British Literature, 1880-1930
 #+AUTHOR: Jonathan Reeve
-#+DATE: 2018-12-01
+#+DATE: 2018-1-29
 
-* Ch. 1: Cognitive Psychology, Reading Imagination (Theory)
+I present a method for studying patterns in literary description which leverages recent developments in the computer science subfield of natural language processing. This is made possible by a model of literary production and reception which understands description as a set of cognitive processes: imaginations, as they are experienced by writers and readers. If we provisionally accept a model of a literary work as a sequence of words, read one at a time, and if we can assume that the materials of the writer---memory, sensory experience, intuition, imagination, other literary works, and so on---are rarely experienced so linearly, but in many simultaneous channels, we can deduce that writing effectuates a linearization of the writer's materials. This process happens in reverse, although not mirrored exactly, on the part of the reader: the reader reads words sequentially, but experiences all the work's literary elements in many channels. The reader /imagines/ the world described by the writing, thereby converting the word into mental /images/.
 
-Current relevance: October 2018 PMLA issue. 
- - Esp. Katherine Hayles's piece cite:hayles2018human which "addresses issues concerned with reading practices in a humanmachine cognitive ecology" (1126)
+These images are not exclusively visual, and nor is imagination, despite its etymology–T. S. Eliot's "auditory imagination," for instance, refers to the reader's reconstruction of mental sounds. However, visual information, conveyed in prose, can be described well with this model, since visual properties tend to be more concrete and measurable than properties belonging to the other senses: /blue/, as a relatively static, synchronous experience, is more easily categorized than a dynamic, temporal auditory experience such as a /shriek/. When a writer begins with a mental image, that image—by definition if it is visual—has measurable properties: color, size, luminosity, and so on. The writer multiplexes or linearizes those properties into a sequence of words which approximate the experience. The process of approximation, I hypothesize, follows certain measurable patterns. 
+
+The first of these patterns is selection: deciding which of an experience's sensory elements are necessary to convey it. As readers, we are well-practiced at providing missing information, or filling in the blanks. We do not need a complete description of something or someone, in order to imagine it. If we are reading a novel in which a character appears, we do not need to be told the material of a character's belt in order to picture him or her. Instead, descriptions often focus on anomalous aspects of what is described: what new information a reader would need in order to supplement their readerly imaginations. Sensory information likely to be shared by a writer and the writer's audience is often omitted, except where the writer calls attention to these effects, in what Viktor Shklovsky has called "estrangement" effects. The color of an orange is not described as orange, for we know it to be so, but it is described as green if the orange is green, and violates what the writer supposes are his audience's prior sensory conceptions.
  
-Cognitive theory of vision, visual perception, imaginary imagery, imagery while reading
+The second pattern is categorization: those elements or properties are named according to their types. A hard gray jagged object is called a rock. Its color is called gray. This process is necessarily reductive, and the degree to which this reduction takes place is telling of the writer's descriptive style. The specificities of hue that Virginia Woolf uses in /Mrs Dalloway/---"grey-green," for instance---or the conspicuously vague descriptor "nocolored" from James Joyce's /Portrait of the Artist as a Young Man/, are both processes of reducing an experienced hue to a recognizable linguistic category. These categories are to some degree culturally conditioned, and conditioned by language conventions. Ludwig Wittgenstein, for instance, has remarked that in English, light red is termed /pink/ with much more regularity than the analogous values of light blue (cite:wittgenstein1978bemerkungen). Terms exist—cerulean, baby blue, and so on—but they are orders of magnitude less stable than the category /pink/. This phenomenon may be found in  other Western European languages, but it is not universally true of languages.
 
-Aristotle: "the soul never thinks without an image" cite:aristotle1941 594
+A third pattern is sequencing. The writer must decide the order in which to present an image's elements. If a novel's narrator consistently begins by describing the mountains in the distance of a place, instead of the trees in the foreground, or if another narrator describes the color of each person's hair before all else, these are serializing motions analogous to the kinetics of reading, that is, moving one's eye's across a page. When we view a painting in a gallery, we do not take it in all at once, but our eyes move across it selectively and sequentially—we "read" the painting. Similarly, we read faces and human bodies, according to certain patterns. Eye-tracking studies in cognitive psychology have identified some of these patterns. I will attempt to show that the same forces which govern eye motion patterns also govern the sequencing of visual imagery as linearized in literature.
 
-Build out an explanation of chapters, as parts of the eye, procedures of vision.
+These patterns model the process by which a writer's imagination encodes mental images into verbal imagery. Readers, then, using distinct but analogous imaginations, decode this imagery into other mental images. Whereas writers may omit shared sensory information, however, the reader introduces information drawn from memory: from prior sensory experience. A reader will not need to be told the color of a lime, unless it is an anomalously colored lime. Although limes are not the same color in the imaginations of every reader, the color of lime may be inferred within a high confidence interval by using patterns found in non-fiction, and in other literary texts. 
 
-Dual Coding Theory: esp. /Imagery and Text/: cite:sadoski2013imagery
+It need not be said that this is not a complete model of reading and writing. The processes I've begun to outline here do not always take place literally in literary works, of course, but metaphorically, as well, and according to the laws of other literary phenomena. The presence of the word "rock" in a text does not mean that rocks necessarily exist in the world depicted by the literary work: these rocks may be used as ways to describe other things. "Rock music" for instance, only has a metaphorical relation to actual rocks. I will attempt to control for these ambiguities with a number of disambiguation methods, which I will discuss in Chapter 3. Additionally, my focus on literary description, a relatively stable semantic field of convention—will help to mitigate this issue.
 
-** Literary studies 
-*** Visual Imagination
-**** 2015 - Theorizing Imagery, Aesthetics, and Doubly Directed States cite:Zunshine_2015
-
-Chapter in cite:zunshine2015oxford
-
-About vividness of imagery, its connectedness to memory.
-
-Quotes Kant: “liking is connected with the mere exhibition or power of exhibition, i.e., the imagination, with the result that we regard this power, when an intuition is given us, as harmonizing with the power of concepts, i.e., the understanding or reason”: aesthetic judgment is about the harmony of what we see with our ability to think, imagine, and see it."  (254)
-
-Quotes Donna Tartt, from /The Goldfinch/: "“You can have a lifetime of perfectly sincere museum-going where you traipse around enjoying everything and then go out and have some lunch. But. . . if a painting really works down in your heart and changes the way you see, and think, and feel, you don’t think, “oh, I love this picture because it’s universal.” “I love this painting because it speaks to all mankind.” That’s not the reason anyone loves a piece of art. It’s a secret whisper. . . . An individual heart-shock. Your dream, Welty’s dream, Vermeer’s dream. . . [A] really great painting is fluid enough to work its way into the mind and heart through all kinds of different angles, in ways that are unique and very particular. Yours, yours. I was painted for you.”" (254)
-
-**** 2013 - Feeling Beauty cite:starr2013feeling
-
-"iconologists propose that both arts are fundamentally arts of sight, privileging the power of either visual images (painting, sculpture, and so on) or visual imagery ...; iconoclasts assert that visual images are inherently inferior to the concepts of language, or even that imagery as such doesn't exist." (69)
-
-**** 1991 - Reading the Written Image: Verbal Play, Interpretation, and the Roots of Iconophobia cite:collins1991reading
-
-**** 2013 - Iconology: Image, Text, Ideology cite:mitchell2013iconology
-**** 2010 - Literary Reading, Cognition and Emotion: An Exploration of the Oceanic Mind cite:burke2010literary
-
-[[https://clio.columbia.edu/catalog/12459458][Online, through Ebook Central]]
-**** 1983 - The mind's eye in arts and science cite:paivio1983mind
-
-Emphasizes the centrality of the image, and the place-image, to memory. 
-
-**** 2006 - The Case for Mental Imagery cite:kosslyn2006case
-
-#+BEGIN_QUOTE
-When we try to remember whether we left a window open or closed, do we actually see the window in our mind? If we do, does this mental image play a role in how we think? For almost a century, scientists have debated whether mental images play a functional role in cognition. In The Case for Mental Imagery, Stephen Kosslyn, William Thompson, and Giorgio Ganis present a complete and unified argument that mental images do depict information, and that these depictions do play a functional role in human cognition. They outline a specific theory of how depictive representations are used in information processing, and show how these representations arise from neural processes. To support this theory, they seamlessly weave together conceptual analyses and the many varied empirical findings from cognitive psychology and neuroscience. In doing so, they present the conceptual grounds for positing this type of internal representation and summarize and refute arguments to the contrary. Their argument also serves as a historical review of the imagery debate from its earliest inception to its most recent phases, and provides ample evidence that significant progress has been made in our understanding of mental imagery. In illustrating how scientists think about one of the most difficult problems in psychology and neuroscience, this book goes beyond the debate to explore the nature of cognition and to draw out implications for the study of consciousness. Student and professional researchers in vision science, cognitive psychology, philosophy, and neuroscience will find The Case for Mental Imagery to be an invaluable resource for understanding not only the imagery debate, but also and more broadly, the nature of thought, and how theory and research shape the evolution of scientific debates.
-#+END_QUOTE
-
-**** 1999 - Fantasm and Fiction: On Textual Envisioning cite:schwenger1999fantasm
-
-At butler. Also in part in Google Books.
-
-Describes the trend in the early 90s towards investigations of visuality
- - Calls this part of the "pictorial turn" in literary studies (2)
-
-**** 2012 - Texture: A Cognitive Aesthetics of Reading cite:stockwell2012texture
-
-Given that the mind is embodied, "the distinction between nature and artifice is not tenable." (4)
-
-Uses "text world theory", defined as "a cognitive discourse grammar which regards interlocutors as occupying a discourse world. Together, utterers and receivers (writers and readers, in literary terms here) create a text world on the basis of perceived common ground knowledge that they seem to share. **The text world is a readerly mental representation of the alternate world—disjunctive from their own—in which there might be o ther chararcters, objects, history or location. Readers' text worlds are rich worlds, filled in from their own past experiences.**" (7)
-
-(21) has a really interesting chart which provides a an "attention-resonance model" and its accompanying taxonomy. 
- - Seems to say: what keeps a work interesting is its quality of being an "attractor," for which an important quality is "newness" (23)
-
-Describes "landscape attractor" (52)
-
-deals with "cognitive psychology of attention" (55)
-
-Quantifies phonemes and phonetics! (61)
-
-Coins terms like "intensity" and "loading" and textual "richness" to describe richness of texts. 
- - Says /Finnegans Wake/ is too rich, too "overloaded." +
-
-Looks at repeating syntactic structures in Shelley's works (69)
-
-Lots of reader-response stuff (79)
- - "Readers who describe their literary experience as a form of control tend to see the direction of control as coming from the book or author, with themselves as readers being the entity controlled. These people say things like: ‘The weave of the daughter’s life in modern San Francisco and her mother’s life in China holds you right to the end’, ‘It’s grip- ping stuff’, ‘I couldn’t put it down’, ‘It’s action-packed and it doesn’t let go till the very last page’." (80)
-
-"According to the /quantity principle, formal complexity corresponds to conceptual complexity" (83).
-
-"Langacker (2008: 536‒8) points out that all language representations involve some degree of simulation, the principle of cognitive projection oper- ating on the traditional notion of linguistic displacement. Even face-to-face online commentary on the shared situation involves grammaticalisation and assumptions about shared embodied experience, and so has a small degree of simulation in this sense." (104)
- - cite:langacker2008cognitive
-
-Deals with "viewpoint as vector" (109) 
-
-Physical description (114) 
-
-Deictic Shift Theory (128): 
- - Developed in cite:stockwell2005cognitive
- - "DST models the common perception of a reader 'getting inside' a literary text as the reader taking a **cognitive stance** within the mentall constructud world of the text. This imaginative capacity is a deictic shift which allows the reader to understand projected deictic expressions relative to the shifted deictic centre." (46-7)
+An even bigger problem for semantic stability is geographic variation: in Vietnam, oranges are usually green, for instance, so a phrase like "a green orange" might seem unusual to an American, but might contain extraneous information for a Vietnamese person. For this reason and others, I restrict the geographic range of my corpus to works published in, or written by those living in, Great Britain and Ireland. These limits are necessary not only to select for some degree of ecological regularity, but to foster morphological regularity of the language (words are easier to compare computationally if their orthographic conventions are similar), and relative socio-cultural predictability, as well. 
  
-**** 1995 - On vivacity: The difference between daydreaming and imagining-under-authorial-instruction cite:scarry1995vivacity
+I provisionally choose the bounding dates 1880–1930 for this study for similarly practical reasons. For one, this period is well-studied (a survey of monograph titles shows this date range to be very popular among literary scholars), and so it provides for a more precise comparison with synchronic critical work than does, say, 1890–1940. The working lives of some of the period's most influential writers–Woolf, Joyce, and Pound, for instance—overlap significantly with this period, as well. Most importantly, however, I hypothesize that textual images—sequences of words that are either products of, or evocative of, mental images–are noticeably prominent in English-language British literature of the this period, roughly understood. They are not absent in prior or later literatures, of course, or literatures of other countries, but the most celebrated writers of this period discuss visual imaginations to a greater degree in their critical writings. At least one literary movement—the Imagism of the early twentieth century—was founded with explicit affinities toward the image-in-text. But this period exhibits even more imagisms, ones which predate this movement, and whose influences are felt long after. 
 
-Says literature contains "instructions for the production of actual sensory content."
+The texts I will study in this dissertation, then, will likely consist of British and Irish novels and poems published between the years 1880 and 1930. I plan to aggregate a number of corpora (that of the Modernist Journals Project, and that of the British Library, for instance), to generate a large corpus of between 70,000 and 200,000 texts. This corpus is by no means static, however, and I will likely change the parameters (geographic, temporal, and generic) as I go along, according to the quality of the available data.
 
-**** 1994 - The reader's eye: visual imaging as reader response cite:esrock1994reader
+This disseration will consist of six chapters: three which build theoretical and historical foundations, and three which consist of quantitative studies, each focusing on aspects of visual imaginations. The first chapter will build interdisciplinary theoretical backgrounds, drawing upon work in the cognitive sciences to supplement theories of writerly visual imagination in literary studies. The second will historicize the connective tissues between vision and the textual image, through a look at the critical and scientific writings of the period. The third will set the stage for the following chapters, explaining my quantitative methodology, and describing the experimental design. 
 
-"Drawing on substantive research from various disciplines, Ellen Esrock shows that the reader's visual imagery can have unique cognitive and affective consequences that heighten not only the experience of reading but also the scholarly study of literature."
+The three experimental chapters that follow are divided according to three aspects of vision: color (photopic vision), shape (scotopic vision), and space (spatial orientation, proprioception). Their subjects, as well, are aligned accordingly: descriptions of hue, descriptions of bodies, and descriptions of place. Each of the three experimental chapters will use a hybrid critical approach, combining close and "distant" reading. I will chiefly be using supervised machine-learning methods to computationally identify descriptive passages that fall under the above categories, and then analyzing their structure, affinities, topics, and changes over time. I believe these will give me insight into the workings of visual imaginations in this period of British literature.
 
-Calls itself "a response to the widespread presumption in literary studies that considerations of a reader's visual imaging have no value." (vii) 
+The import for this method, for literary criticism, is immense and far-reaching. More than simply providing new data about this period in literary history, this method will constitute a new way of reading a text. Much in the same way that the movements of one's eyes may betray one's unexpressed desires (eyeing the door when one wants to leave a room, or eyeing an dish when one is hungry), programmatically enacting a visual imagination will help to reveal the desires of descriptive agents. Put differently, this set of experiments will constitute a new kind of computer-aided close reading. 
 
-Anti-imagination: William Gass
+* Ch. 1: Cognitive Psychology and Reading Imaginations (Theory)
 
-Argues that the "unique metaphysical position" of vision in ancient philosophy is called into question in the twentieth century.
+The first chapter will build the theoretical foundations I will employ in subsequent chapters. They are of necessity interdisciplinary, since many disciplines contribute to the study of vision. First, I will review the existing treatments of this topic in literary studies. I will pay particular attention to the critical trend of the early 1990s that gave weight to the related and overlapping concepts termed, on the writer's end "the written image," "iconology," and on the reader's end "textual envisioning," "the reader's eye," "the mind's eye," and "vivacity" (cite:collins1991reading; cite:mitchell2013iconology; cite:schwenger1999fantasm; cite:esrock1994reader; cite:wettlaufer2003mind; cite:scarry1995vivacity).
 
-**** 2003 - In the Mind's Eye: The Visual Impulse in Diderot, Baudelaire and Ruskin cite:wettlaufer2003mind
+More recent criticism, as well, discusses this. The October 2018 issue of PMLA is a special issue on "Cultures of Reading," including an essay by Katherine Hayles which "addresses issues concerned with reading practices in a human-machine cognitive ecology" (cite:hayles2018human 1126). This will help to establish the relevance of this topic to the current critical conversations. From there, I will explore contemporary approaches to this area in the cognitive sciences: psychology of vision, linguistic philosophy of visual description, and phenomenology of vision. I am particularly interested in exploring experimental psychology of the reader's visual imagination of text: acts of reading, and acts of seeing. 
 
-Deals with mostly French writers, but could have a useful bibliography. 
-**** 2017 - Literary Visualities: Visual Descriptions, Readerly Visualisations, Textual Visibilities cite:bodola2017literary
-
-Downloaded via Ebrary
-**** 1991 - The Act of Reading: A Theory of Aesthetic Response cite:iser1991act
-
-"The image and the reading subject are indivisible. This does not mean, however, that the combination of signs made present in the image arises out of the arbitrariness of the subject—even if the contents of such images may be colored by him; it means in effect that the reader is absorbed into what he himself has been made to produce through the image; he cannot help being affected by his own production." (140)
-
-"the literary image represents an extension of our existing knowledge, whereas the image of an existing object only utilizes given knowledge to create the presence of what is absent." (140-1)
-
-"The text mobilizes the subjective knowledge present in all kinds of readers and directs it to one particular end. However varied this knowledge may be, the reader's subjective contribution is controlled by the given framework. It is as if the schema were a hollow form into which the reader is invited to pour his own store of knowledge." (143)
-
-**** And Science
-***** 1980 - A theory of reading: From eye fixations to comprehension. cite:just1980theory
-
-[[https://en.wikipedia.org/wiki/Eye_tracking#cite_note-14][WP]]: influential "Strong eye-mind hypothesis, that 'there is no appreciable lag between what is fixated and what is processed.'"
-
-But this has apparently been called into question a lot. 
-
-Define reading: "Reading can be construed as the coordinated execution of a humber of processing stages such as word encoding, lexical access, assigning semantic roles, and relating the information in a given sentence to previous sentences and previous knowledge." (331)
-
-***** 2014 - Cognitive Iconology: When and How Psychology Explains Images cite:verstegen2014cognitive
-
-*** Anti-Imagination in Literary Studies
-William Empson, 1962, "denounced what he considered the widespread but wrongheaded view that literary works are supposed to evoke visual images in their readers" cite:esrock1994reader 1
-
-William Gass: "the most passionate critic" of the image in literature cite:esrock1994reader 151. 
-
-Calls I. A. Richards "one of the most influential critics to discuss the limitations of visual imagery," also "not coincidentally, was Empson's teacher." (3)
- - Richards says "visualisers ... are exposed to a special danger." (4) 
-
-** Cognitive sciences
-*** Philosophy/Phenomenology of vision
-Daniel Dennett, "Two Approaches to Mental Images," describes readerly visual imagination as a "phenomenological image" cite:esrock1994reader 7
+Eye movement studies, of which many have been conducted since the first in the 1960s, will help to proceduralize many of these theories of vision. If we can show that certain image types (landscapes, portraits) condition, however probabilistically, certain paths of reading that image, we might be able to use that path to explain the serializations of those images as they are translated, however selectively, into text. 
 
 * Ch. 2: Fin-de-siècle Imagisms (Historicization)
-** In literature
-*** Imagism (the literary movement); Pound
-Pound, /ABC of Reading/: cite:pound_abc_1960
- - Ch. 8 begins: "Language is a means of communication," says the "three chief means" of "charg[ing] language to the utmost possible degree" include: 
-   - "throwing the object (fixed or moving) onto the visual imagination" 
 
-Pound was also attracted to the Chinese character, as the title of the book goes, "as a medium for poetry," in part due to its visual, ideographic qualities.
+The second chapter will contain a similar set of theoretical groundwork to the first, but will be more historically appropriate to the texts of the corpus. This chapter will build the case that functions of visual imaginations are instrumental to understanding this period of literature. I will provide a number of examples in which language mimics sight, and where writers of this period discuss their writing techniques in visual terms.
 
-"T.E. Hulme, an aesthetic philosopher who quite reasonably might be called the 'father of Imagism.'" cite:hughes1972imagism 9)
- - see below
+Here are a few examples. Ezra Pound, in addition to the work cited above, writes much about the centrality of the image to poetry. His attraction to the Chinese language, while somewhat misdirected, grows out of what he sees as the ideographic qualities of the Chinese written character. Pound's fascination with the textual image might be traced, at least in part, to the thought of the aesthetic philosopher T.E. Hulme, a figure well known in Pound's circle, and the addressee of his unsigned "document," which appears at the end of his anthology /Des Imagistes/, "To Hulme (T. E.) and Fitzgerald." Hulme has been called "the father of Imagism" and one for whom the image is "the key principle of [his] aesthetic," which "crystallizes the tensions between realism and nominalism, empirical detail and abstract thought" (cite:hughes1972imagism 9; cite:mead2015t 35). The Hulme scholar Henry Mead traces his fascination with the image to T. H. Huxley, who also taught and influenced H. G. Wells. Huxley, he continues, was in turn directly influenced by Henri Bergson, an influential thinker for modernist writers.
 
-*** And Conrad
- - "In the first lines of the preface to /The Nigger of the 'Narcissus,'/ Conrad defines art as 'a single-minded attempt to render the highest kind of justice to the visible universe.' This is reasonable and reasonably straightforward: it squares nicely with the stipulation that art 'make its appeal through the senses,' with the proposal to show life's 'vibration, its color, its form' and with Conrad's oft-quoted summary of his aim: 'to make you hear, to make you feel ... before all, to make you /see/." cite:levenson_genealogy_1986 1
+Virginia Woolf, in her essay, "The Cinema," notes that "in Shakespeare, as everybody knows, the most complex ideas, the most intense emotions form chains of images, through which we pass, however rapidly and completely they change, as up the loops and spirals of a twisting stair" (cite:woolf2009selected). Here as in Pound, ideas are constructed using chains of images. Visuality is central to Joseph Conrad's writing, as well. In the much-quoted preface to his novel, /The Nigger of the 'Narcissus,'/ he defines writing as "a single-minded attempt to render the highest kind of justice to the visible universe" (quoted in cite:levenson_genealogy_1986 1). His stated goal is "to make you hear, to make you feel ... before all, to make you /see/." Similarily, the writings of D. H. Lawrence, show a powerful visual imagination, one which has been the subject of at least one monograph: Keith Aldritt argues that Lawrence's training as a visual artist gave him an unusually robust dexterity with textual imagery (cite:alldritt1971visual vii). 
 
-*** Eliot
-In his prose, keeps coming back to the visual
- - Devotes a chapter to visual hallucination in his early prose work /Knowledge and Experience/. cite:eliot2014complete1 332
- - Eliot, in a review of Ernest Fenollosa and Ezra Pound's /'Noh' or Accomplishment/: 
-   - **"In general, we may say that the less “realistic” literature is, the more visual it must be. In reading Pride and Prejudice or The Wings of the Dove we hardly need to visualize at all; in reading Dante we need to visualize all the time. Dreams, to be real, must be seen."** cite:eliot2014complete1 566.
- - Visual nature of dreams: Freud
+T. S. Eliot returns often to the image-in-text in his critical writings. He devotes a chaptes to visual halluicination in his early prose work /Knowledge and Experience/ (cite:eliot2014complete1 332). In his review of Ernest Fenollosa and Ezra Pound's /'Noh' or Accomplishment/, he may be found distinguishing between realism and the visual: 
 
-*** Woolf
-In her essay, "The Cinema": 
- - "In Shakespeare, as everybody knows, the most complex ideas, the most intense emotions form chains of images, through which we pass, however rapidly and completely they change, as up the loops and spirals of a twisting stair. But obviously the poet's images are not to be cast in bronze or traced with pencil and pain. They are compact of a thousand suggestions, of which the visual is only the most obvious or the uppermost. ... All this, which is accessible to words and to words alone, the cinema must avoid." cite:woolf2009selected
-   - I would disagree with VW here. 
+#+BEGIN_QUOTE
+"In general, we may say that the less “realistic” literature is, the more visual it must be. In reading /Pride and Prejudice/ or /The Wings of the Dove/ we hardly need to visualize at all; in reading Dante we need to visualize all the time. Dreams, to be real, must be seen." ( cite:eliot2014complete1 566). 
+#+END_QUOTE
 
-See cite:goldman98_virgin_woolf
+In the sciences, mental imagery became an important topic of study at the turn of the century. Sigmund Freud, in his influential /Interpretation of Dreams/ of 1899, notes the visual character of dreams, arguing that a factor responsible for translating "dream thoughts" into "dream content" is "the regard for presentability in the peculiar psychic material which the dream makes use of,---that is fitness for representation, for the most part by means of visual images" (freud1913interpretation 318).
 
-*** Lawrence
-"Lawrence's imagination, as his several essays in art theory and criticism attest, was powerfully affected by his very considerable experience of paintings. And the many references to painting and sculpture in the novels often serve to complement or enhance a certain passage in the writing." cite:alldritt1971visual vii
+One year earlier, Wilfred Lay's /Mental Imagery, Experimentally and Subjectively Considered/ tests the properties of mental imagery, remembered by readers of /Madame Bovary/. Lay classifies literary images as one of either /visual, auditory, olfactory, motor, thermal, tactile, organic,/ or /gustatory/. And in 1909, George Betts published a similarly influential study, /The Distribution and Functions of Mental Imagery/, which includes mental imagery questionnaires that are still in use sixty years later (cite:betts1909distribution; cite:sheehan1967shortened). Betts asks his subjects to think of their breakfast tables, and to sort in order of vividness a list of its attributes, such as the color of the tablecloth, or the shape of the spoons. His choices of attributes are not arbitrary, but are divided into the two categories, "as to outline, shape, and size," and "as to colors" (21). These categories correspond to scotopic and photopic vision, or to retinal rods and cones, and will correspond to chapters four and five of my dissertation. 
 
-*** Working Bibliography
-**** 2014 - The Complete Prose of T.S. Eliot: Apprentice years, 1905-1918 cite:eliot2014complete1
+There are many more examples of these, which this chapter will discuss and synthesize.
 
-"Consider this again in the case of memory. Bergson has emphasized the fact that the progress of human consciousness has been toward homogeneous space, for the greater possibilities of action. He has not in his discussion of memory specifically stated what seems to me obvious, if the first conclusion be true: the acquisition of his second kind of memory, the continuous type, is only another triumph in spatialisation. He concedes, you remember, that the whole of past experience may be latent in the animals. The differentia is the power of visualisation of this experience, and what is visualisation but spatialisation?73* The future is ideal construction, and is spatial also." ("Inconsistencies in Bergson's Idealism," 80)
-
-**** 1972 - Imagism & the Imagists: A Study in Modern Poetry cite:hughes1972imagism
-
-Looks really useful.
-
-Should contain ideas about the influence of imagism? 
-
-I actually don't think it's 1972, but way earlier? 
-
-Traces the genealogy of imagism to: 
- - reaction against immediately preceding poetry
- - influence of East Asian poetry (esp. Pound) 
- - influence of French symbolist poetry
-   - and Parnassians before them
-
-"At the outset we find ourselves concerned with the activities of a relatively unknown man, T.E. Hulme, an aesthetic philosopher who quite reasonably might be called the 'father of Imagism.'" (9)
-
-**** ABC of Reading cite:pound_abc_1960
-
-Ch. 8 begins: "Language is a means of communication," says the "three chief means" of "charg[ing] language to the utmost possible degree" include: 
- - "throwing the object (fixed or moving) onto the visual imagination" 
-
-**** 1993 - Modernity and the Hegemony of Vision cite:levin1993modernity
-
-Philosophy, mostly. Doesn't seem to really discuss modernism, but does have a chapter on Nietzsche.
-
-**** 1998 - The feminist aesthetics of Virginia Woolf : modernism, post-impressionism, and the politics of the visual cite:goldman98_virgin_woolf
-
-**** 1992 - Techniques of the Observer: On Vision and Modernity in the Nineteenth Century cite:crary1992techniques
-
-Argues that vision significantly changed around the early- to mid-19th C
-**** 2009 - Literary Modernism and Beyond: The Extended Vision and the Realms of the Text cite:lehan2009literary
-
-Deals frequently with vision, perception. Could be useful. 
-
-**** 1959 - Joyce's Visual Imagination cite:ryf1959
-**** 2004 - Joyce's Visions cite:phillips2004
-**** 1997 - James Joyce's Techno-poetics cite:theall1997james
-
-Looks very useful. Chapter 13 on /The Relativities of Light, Colour, and Sensory Perception/. 
-
-**** 1991 - Image and Ideology in Modern/Postmodern Discourse cite:downing1991image
-
-On Conrad, Woolf, Pound, and more.
-** In science, philosophy
-
-Lay, 1898: "The mental imagery of words forms a most interesting and import subject for study. It seems probable that when once the attention is called to the different way in which words exist in the mind, it will be possible for the psychologist to see better the different sensory aspects of the 'thought stream' and to study them more successfully than heretofore." cite:lay1898mental
- - Examines literature, in particular
-  
-Freud, in /Interpretation of Dreams/, (1899), notes the visual character of dreams: 
- - Factor responsible for translating "dream thoughts" into "dream content" is "the regard for presentability in the peculiar psychic material which the dream makes use of,—that is fitness for representation, for the most part by means of visual images."
-  
-Betts, 1909 has an experiment where he tests "enjoyment of literature" against subjects' capacity for visualizing them cite:betts1909distribution 87
- - Cites Alfred Binet's 1903 L'étude Expérimentale de l'Intelligence: "Enfin et c'est là le fait capital fécond en conséquences pour les philosophes toute la logique de la pensée échappe à l'imagerie." cite:binet1903étude 309
- - [[https://books.google.com/books?id][The Distribution and Functions of Mental Imagery - George Herbert Betts - Google Books]]
-  
-Hulme on poetry v. prose: 
- - "In prose as in alpebra concrete things are embodied in signs or counters, which are moved about according to rules, without being visualized at all in the process. There are in prose certain type situations and arrangements of words, which move as automatically into certain other arrangements as do funtions in algebra. One only changes the /x/'s and /y/'s back into physical things at the end of the process. Poetry, in one aspect in any rate, may be considered as an effort to avoid this characteristic of prose. It is not a counter language, but a visual concrete one. It is a compromise for a language of intuition which would have over sensations bodily." cite:hulme1994collected 95) from "Searchers After Reality 2: Haldane"
-*** 1911 - The Imaginal Reaction to Poetry: The Affective and the Aesthetic Judgment cite:downey1911imaginal
-
-All on Google Books.
-*** 1898 - Mental Imagery: Experimentally and Subjectively Considered cite:lay1898mental
-
-Wow, looks great. 
-Examines literature. 
-Columbia doctoral thesis in philosophy. 
-In particular, is interested in Flaubert and French literature. 
-
-*Uses quantitative studies of literature.* (11)
-*** 1856 - The Language of the Eye: The Importance and Dignity of the Eye as Indicative of General Character, Female Beauty, and Manly Genius cite:turnley1856language
-
- - Really interesting, if very dated. 
- - A chapter on "Poet's Imagery"
- - Discussed in cite:flint2000victorians
- - [[https://books.google.com/books?id=4GIJxq73DHEC&pg=PA46&dq=the+language+of+the+eye&source=gbs_toc_r&cad=4#v=onepage&q=the%20language%20of%20the%20eye&f=false][Available in full on Google Books]]
 * Ch. 3: Procedures, Formalisms (Method)
 
-Predecessors / ancestors: 
- - Russian Formalism, esp. Shklovsky: poems as machines
- - John Smith on imagery in /Portrait/ cite:smith1980imagery 
- - Some experiments in computer science / cognitive science (see bibliography in this section)
+This chapter will discuss possible proceduralizations of the previous two chapters' observations. It will help to situate the method I will employ in the following chapters among similar critical endeavors. First, I will explain what I mean by visual-imaginary "operationalization," or "proceduralization": partial translation, or transmediation, of lexical data into sensory data, by serializing it as a set of instructions or a set of procedures. This is a way of formalizing (or serializing, verbalizing, mathematically encoding) some of the visual dimensions of literary texts.
 
-Formalisms: 
- - Mathematical formalization: conversion of observations into procedures
- - Mathematical modeling
- - Not, however, an attention to form/structure.
+Here, I will provide a demonstration of my technique. Turning to a random page in Joyce's /Dubliners/, I find these two sentences: "Mr O'Connor tore off a strip of the card and, lighting it, lit his cigarette. As he did so the flame lit up a leaf of dark glossy ivy in the lapel of his coat." Even without the context of these sentences, we can extrapolate a significant amount of information, if we can proceduralize a reader's visual imagination. 
 
-Contemporary critical affinities: 
- - Surface reading cite:best2009surface
- - "Close but not Deep: Literary Ethics and the Descriptive Turn" cite:love2010close
- - "Building a better description" cite:marcus2016building 
-   
-Reading machines. 
- - Ramsay, /Reading Machines/ cite:ramsay2011reading 
- - 2014 - Making a Machine that Sees Like Us cite:pizlo2014making
+Take the ivy, for example. First, we can extract photopic information about it. We know that it is probably a green, and a certain spectral range of green. From the modifier "dark" we know that this green is somewhat darker than usual, and from the modifier "glossy," we imagine that light may be reflecting off of this ivy, making it whiter than usual.
 
-Demonstration of method: 
- - a close reading of a few sentences of /Dubliners/, 
- - showing how imagery can be proceduralized
- - translation of objects/bodies into data (colors, size, borders)
+We may also extract scotopic information about the ivy: its size, shape, and borders. We already know that a leaf of ivy is restricted to a certain range of sizes, depending on its variety, and its maturity. We might assume that if the leaf fits into a lapel, that it's smaller than the lapel itself: one to two inches across, perhaps. We can infer a few things about the space, as well. The way the flame "lit up" this leaf, we may assume that the room or outdoor space they are in is dark. We might infer, then, that this scene takes place at night. 
 
-Explanation of visual inferences as corpus-generated.
+This process of imagining—which I am here using in its etymological sense, to mean the conversion of textual abstractions into mental images—may be automated, if we can construct a machine which has access to visual assumptions about content words. Of course, these assumptions will always be subjective, and dependent on visual experience, but a reasonable starting-place might be constructed using the literary texts itself. For instance, we might gather color information about ivy by calculating the color words that appear within ten words of the word "ivy" in a large corpus of literary texts. (Although this has the problem that sheep are called "white sheep" significantly less than they are called "black sheep"—it is the exception that warrants the visual description.) 
 
-** Working Bibliography
-*** 2013 - SOILIE: A computational model of 2D visual imagination cite:breault2013soilie
+Of course, one might criticize this reading of these two lines from /Dubliners/ as a naive reading that is ignoring the subtext of these lines, that the ivy is a symbolic representation of solidarity with the late Charles Stewart Parnell, as the title from which these lines are taken, "Ivy Day in the Committee Room," hints. But while the symbolic reading—one which might lead us from ivy to Parnell, to Home Rule, Irish Independence, British colonial history—takes us out of the realm of words, a superficial reading—one which devotes attention to the physical properties of the signifier itself—will not discard as by-products the raw materials with which symbols, metaphors, and other literary constructions are built. And if we automate these processes of information extraction, we could apply them to any number of texts. This has far-ranging consequences for our knowledge about these texts. We could use this measurement to track stylistic influence, generic evolution, or other literary-historical trends. 
 
-Concludes: " SOILIE is able to take a user input of a single word and generate a rendered image of a 2D scene depicting the query word and several associated images, in more or less the correct places. Although the placement of sub-images in the final canvas makes sense if you know what it is doing, the images are admittedly unlike our internal experiences of imagery, and appear rather like surrealistic art pieces. Future work should improve the images. In particular, the problems faced are 1) incoherent label choice (particularly with homonyms), 2) the system‟s misunderstanding of part-whole relationships (meronyms), 3) a misunderstanding of kind with respect to parts and wholes (a dog‟s ear versus a human ear) and 4) lack of information about size. Future work will address these problems, as well as improve the nature of the output using pixel interpolation to fill in blank spaces (Hays & Efros, 2007; Feiner, 1985), to create a more realistic neural model of the rendering." 
+This method has affinities with what Stephen Best and Sharon Marcus have called "surface reading," a method which does not dismiss its counterpart, "symptomatic reading," but calls for greater attention to "what is evident, perceptible, apprehensible in texts; what is neither hidden nor hiding; what, in the geometric sense, has length and breadth but no thickness, and therefore covers no depth" (cite:best2009surface 9). However, I will not draw conclusions merely with decontextualized surface /considerations,/ but I will use the presence of surface properties of a text /in aggregate/ as a means through which to understand new dimensions of the text. If a writer prefers to name green bodies (objects and so on) ten times as much as yellow, this could be revealing; similarly, if a narrator always describes a human body beginning at the feet, this could reveal the narrator's bodily preoccupations to such a degree that it could then inform a lens with which to reread the text.
 
-*** 2011 - Reading Machines: Toward an Algorithmic Criticism cite:ramsay2011reading
+I will situate my method among predecessors with similar methods: some works of Russian Formalists, especially Shklovsky—not their narratological work, but their work in categorizing sensory elements of folklore. Some aspects of literary structuralists, too, have methods akin to mine. More recent studies include a few ingenious but largely forgotten works of early computational literary analysis, like John B. Smith's work on imagery in /A Portrait of the Artist as a Young Man/ (cite:smith_imagery_1980). There are a even experiments in computer science that deal with operationalizing description, as well (cite:pizlo2014making). I will show how my method has benefited from these works, and how it departs from them. More recent work concerning the functions and properties of literary description will also prove helpful here. By literalizing literary description, I will get closer to understanding the function of description in novels and poetry. 
 
-* Ch. 4: Descriptions of Colors. Virginia Woolf.  
-Central text: /Mrs Dalloway/
+* Ch. 4: Descriptions of Color.
 
-Physiology: retinal cones (photopic vision)
+The first of my three experimental chapters deals with the perception and imagination of color: how color and hue are perceived and imagined by writers, encoded into sequences of language, and decoded or imagined by readers. The cognitive science I will build from here involves the psychology, physiology, and philosophy surrounding photopic vision: functions of retinal cones, and perceptions of hue. 
 
-Psychology of color
+The experiments I will conduct here will be quantifications of colors and their literary expressions. First, I will quantify explicit color expressions: color words like "silver-gray" or "greenish." These alone will be revealing, I imagine, and could be used to compute color comparisons. Among the questions I'd be interested in answering here are: 
 
-Handbook of Color Psychology cite:elliot2015handbook
-
-Experiment: a quantitative analysis of color in this literary corpus
- - Analysis of color expressions: 
-   - their historical changes
-   - their locations in narrative time
-   - their hierarchies
-   - averages, according to different color spaces
-
-Identify color expressions
-
-Translate nouns and some adjectives into their visual expressions: 
- - pear -> green, brown
- - grass -> green, brown
- - eggshell -> off-white
-
-** Working Bibliography
-*** 2015 - Handbook of Color Psychology cite:elliot2015handbook
-
-All online: [[https://www-cambridge-org.ezproxy.cul.columbia.edu/core/books/handbook-of-color-psychology/5A29A2BBA251510F1DCB9CBB746EE7D5?pageNum][Handbook of Color Psychology edited by Andrew J. Elliot]]
-
-* Ch. 5: Descriptions of Shapes, Bodies, Objects. D.H. Lawrence.
-Central text: /Lady Chatterly's Lover/
-
-Physiology: retinal rods (scotopic vision)
-
-Neurological differences between recognition of face and recognition of object. 
-
-Reading bodies: eye movement tracking
-
-Perception of objects: objecthood. 
- - "Smith, Johnson and Spelke (2003) demonstrate experimentally that objects with regular predictable edge-boundaries achieve a unity in perception more readily than objects with ragged or misaligned edges." cite:stockwell2012texture 107
+ - What are the favorite colors of each writer in the corpus? 
+ - What writers display the most diversity of color words? How does this affect their descriptions?
+ - What colors are most likely to begin a novel? Which colors are most likely to end it? Why?
+ - What is the average color of a given novel? Do these correlate with setting, place of publication, writer, time of publication, or some other factor? Are chapters similarly bookended with colors, in this way? What about serially-published fiction?
+  
+Next, I will attempt to quantify implicit color mappings. The word /pear/, for instance, which ostensibly refers to the fruit, also refers to the color of the fruit. The DBPedia page for "Pear (color)," generated from Pantone, Plochere, and other color data sources, identifies four color mappings, which range from a light greenish-yellow to a deeper brownish-green: /pear sorbet/, /pear/, /medium winter pear/, and /winter pear/. I will be able to use data sources like these to map an occurrence of the word /pear/ to its machine-readable RGB or HSL values. More historically appropriate sources are widely available, as well: color manuals, made for artists and decorators, are abundant, both from the 1880-1930 period and from more recent times. Paint manufacturers, too, produced books of color names, often with poetic names like "exotic plum."
  
-Experiment: a quantitative study of novels' **descriptions of bodies** (objects and human bodies)
- - how human bodies are divided
- - which parts are over/underrepresented
-   - how does this differ by gender of describer/object? 
-   
-   
-** Working Bibliography
-*** 2018 - Using dual eye tracking to uncover personal gaze patterns during social interaction cite:rogers2018
+I might also be able to use image databases: since stock photo databases are so meticulously tagged, for instance, I could average the colors of these photos to create a reasonable word-to-color mapping. Not all of these mappings will be historically appropriate, of course, to the color mapping in the writer's visual imagination, but they will be more appropriate to contemporary readers' visual imaginations.
 
-Abstract: "We report the personal eye gaze patterns of people engaged in face-to-face getting acquainted conversation. Considerable differences between individuals are underscored by a stability of eye gaze patterns within individuals. Results suggest the existence of an eye-mouth gaze continuum. This continuum includes some people showing a strong preference for eye gaze, some with a strong preference for mouth gaze, and others distributing their gaze between the eyes and mouth to varying extents. Additionally, we found evidence of within-participant consistency not just for location preference but also for the duration of fixations upon the eye and mouth regions. We also estimate that during a 4-minute getting acquainted conversation mutual face gaze constitutes about 60\% of conversation that occurs via typically brief instances of 2.2 seconds. Mutual eye contact ranged from 0–45\% of conversation, via very brief instances. This was despite participants subjectively perceiving eye contact occurring for about 70\% of conversation. We argue that the subjective perception of eye contact is a product of mutual face gaze instead of actual mutual eye contact. We also outline the fast activity of gaze movements upon various locations both on and off face during a typical face-to-face conversation."
-*** 1989 - Theorizing the male gaze: Some problems cite:snow1989theorizing
+The existence of well-established linguistic categories of color, I suspect, will determine to a great degree their distributions in literature. That English seems to have a first-order concept for /pink/ as light red, but no analogous concept for blue, I hypothesize, will translate to greater incidence of pink in literature. If I could find the average fingerprint of English-language color categories, deviations from those might skew in some directions according to genre, topic, or the writer's linguistic background. Would Conrad's English-language writing, for instance, show traces of Polish, French, or the other languages with which he was acquainted? I also expect to find historical trends that correlate with certain material conditions: I imagine that colors in the range of purple, violet, and so on will show a spike in their literary representations in the decade following the synthesis of the dye around 1860. 
 
-Mostly art history. 
-*** 2012 - When art moves the eyes: a behavioral and eye-tracking study cite:massaro2012art
-*** 1974 - The time course of picture viewing. cite:antes1974time
+The result of this analysis will be a visualization---in the most literal possible sense---of the literary texts in my corpus. It will attempt to recreate /a/ visual imagination. Importantly, this will not be /the/ visual imagination, as if there is only one, but an aggregate imagination, one which is pieced together somewhat archaeologically from contemporaneous cultural data sources.
 
-Appears to be foundational: cited many hundreds of times.
-*** 2014 - Catching eyes: effects of social and nonsocial cues on attention capture cite:bockler2014catching
+* Ch. 5: Descriptions of Shapes, Bodies, Objects.
 
-Abstract: "Direct eye contact and motion onset are two powerful cues that capture attention. In the present study, we combined direct gaze with the sudden onset of motion to determine whether these cues have independent or shared influences. Participants identified targets presented randomly on one of four faces. Initially, two faces depicted direct gaze, and two faces depicted averted gaze. Simultaneously with or 900 ms before target presentation, one face with averted gaze switched to direct gaze, and one face with direct gaze switched to …"
+Where the previous chapter focused on photopic aspects of vision, this chapter will deal with scotopc vision: that controlled by retinal rods, and responsible for night vision, the distinguishing of shapes, objects, and bodies. I use "bodies" here to refer to both discernible objects—as in "celestial bodies"—and to human bodies, as well. In the cognitive processes of vision, bodies are recognized as such by piecing together the edge-boundaries that compose them. The brain does not recognize instantaneously, but rather, the process follows a sequence which is neither arbitrary nor deterministic, yet obeys certain rules. Bodies are "read" (here again, I use a metaphor from the textual domain to describe the visual, instead of vice versa) following the movements of the eyes, which in turn are controlled by a host of subliminal factors. For inanimate objects, those factors might include utility (is it an object that can be used?), contrast (does it stand out from its background?). For human bodies, factors might include, on the part of the viewer, desire, social status, propriety, gender identity. These interpersonal factors, I hypothesize, will condition their descriptions of human bodies. How bodies are read—according to what virtual eye paths, with what fixations, and with what selectivity as to bodily segmentation—I imagine will be heavily conditioned by the social relationships of the describer and describee, even if these are fictional personae.
 
-About locking eyes with someone. 
+A greater epistemological question lurks here, of course: just what exactly /is/ an object? An object must first be perceived as discrete, before it is given a label. But to be perceived it must either be an island unto itself, with clear edges demarking it from its surroundings, and show some capacity for being displaced from its surroundings, or it must fall into a recognizable pre-determined category. As Eye movement tracking studies will be useful here: I hypothesize that eye movements that read an image of a human body will align with prose sequences describing bodies. Neurological studies have differentiated between patterns of recognition of faces and recognition of objects. Others have demonstrated patterns in object recognition, and differences between recognition of objects according to their edge-boundaries (cite:stockwell2012texture 107). 
 
-* Ch. 6: Descriptions of Spaces: Rooms, Buildings, Cities. James Joyce.
-Central text: /Ulysses/
+The experiment I will conduct here will be a quantitative study of novels' and poems' descriptions of bodies, in both senses of the word. First, I will examine the positions of those categories of nouns which describe objects or discrete bodies, to determine how they are distributed in a text, and with respect to description. I will determine where and how they correlate with other literary phenomena, and what categories of objects these bodies fall into, according to well-established taxonomies such as those provided by thesauri. From there, I will determine the sequencing, segmenting, and categorizations of human bodies, as visually experienced and textually encoded. I am particularly interested in what I have called selection: how are certain parts of bodies (noses, cheeks, hair, hips, etc.) "read" by characters, narrators, or the speakers of poems? Why those parts, and not others? How are bodies selectively represented by their describers?
+ 
+** Selected Working Bibliography
+- 1974 - The time course of picture viewing. (cite:antes1974time)
+- 2012 - When art moves the eyes: a behavioral and eye-tracking study (cite:massaro2012art)
+- 2014 - Catching eyes: effects of social and nonsocial cues on attention capture (cite:bockler2014catching)
+- 2018 - Using dual eye tracking to uncover personal gaze patterns during social interaction (cite:rogers2018)
 
-- White et al. on orienting: "Active vision involves a continual re-orienting of the line of sight with stimuli pertinent to current goals" cite:White_2016 1
-- Spatial Orientation in Vision
+* Ch. 6: Descriptions of Spaces: Rooms, Buildings, Cities.
 
-Experiment: 
- - A quantitative study of novels' descriptions of place
+The final experiment I will conduct will quantify properties of literary descriptions of space: rooms, buildings, cities, environments, and more. Spatial orientation is a important phenomenon to cognitive vision studies. As White et al. put it, "active vision involves a continual re-orienting of the line of sight with stimuli pertinent to current goals" (cite:White_2016 1). These goals will vary greatly according to space and social situation, but the important application of this observation of cognitive science is that there is rarely a purely aesthetic appreciation of space on the part of the describer, just as with the painter: the sequence with which the description reads or serializes a space reveals narratological and characterological forces.
 
-** Theory
-*** 2000 - Of Other Spaces cite:foucault2000other
+Just as with the chapter on bodies above, I will measure the segmentation of landscapes, their serialization, and their distribution in time. Again, if distant mountains are described with much more attention than are closer features of the landscape, this distribution in narrative time reveals to some extent the preoccupations of the narrator, and it contributes to a certain visual tableau. Here again, eye tracking studies will be useful: the ways in which subjects are shown to move their eyes across landscape paintings, I imagine, will correlate with the ways in which landscapes are described. 
 
-*** 1992 - The Production of Space cite:lefebvre1992production
-*** 2003 - Moving Through Modernity: Space and Geography in Modernism cite:thacker2003moving
-** Cognitive Science: Orienting, landscapes
-*** 2016 - Neural Mechanisms of Saliency, Attention, and Orienting cite:White_2016
-*** 1996 - Visual landscape exploration as revealed by eye movement tracking cite:de1996visual
+** Selected Working Bibliography
+
+- 2000 - Of Other Spaces (cite:foucault2000other)
+- 1992 - The Production of Space (cite:lefebvre1992production)
+- 2003 - Moving Through Modernity: Space and Geography in Modernism (cite:thacker2003moving)
+- 2016 - Neural Mechanisms of Saliency, Attention, and Orienting (cite:White_2016)
+- 1996 - Visual landscape exploration as revealed by eye movement tracking (cite:de1996visual)
+
+* Timeline
+
+I will write the second half of this dissertation first, starting with chapters 4--6, and then writing chapters 1--3. This way, my description of method is descriptive, rather than prescriptive, and the theory I choose to scaffold my argument will be appropriate to the task of explaining my observations. 
+
+ - September--October 2018: Create corpora, and related infrastructure.
+ - November 2018--May 2019: Write Chapter 4 (Color).
+ - May 2019: Submit color/description chapter for publication. 
+ - May 2019--May 2020: Write Chapter 5 (Bodies). 
+ - May 2020: Submit Chapter 5 for publication.
+ - May 2020--November 2020: Write Chapter 6 (Spaces) and Chapter 1. 
+ - November 2020: Submit Chapter 6 for publication.
+ - November 2020--May 2021: Write remaining chapters.
+ - May 2021: Defend dissertation.
 
 * References
-
-<<bibliography link>> bibliography:references.bib
-
